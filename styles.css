@@ -1,0 +1,13 @@
+nav ul li{
+    list-style-type: none;
+    display: inline; block;
+}
+nav ul li a{
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 20px;
+}
+nav ul li a:hover{
+    background-color: brown;
+    color: chartreuse;
+}
